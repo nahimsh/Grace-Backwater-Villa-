@@ -72,10 +72,10 @@ if you update the brand mark.
 
 Search the codebase for these and replace with real values:
 
-- **Phone / WhatsApp number**: `+910000000000` — appears in `index.html`
+- **Phone / WhatsApp number**: `+91 80737 13857` — appears in `index.html`
   (header CTA, hero buttons, contact section, floating WhatsApp button,
   `tel:`/`wa.me` links) and in the JSON-LD schema.
-- **Email**: `hello@gracebackwatervilla.com`
+- **Email**: `Nahimsh22@gmail.com`
 - **Address**: "Backwater Road, Coorg, Karnataka 571201" (in the Location
   section, footer, and JSON-LD schema).
 - **Google Maps embed**: replace the `src` of the `<iframe>` in the Location
