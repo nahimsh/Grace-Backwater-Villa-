@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.gracebackwatervilla.com/sitemap.xml
+Sitemap: https://www.gracebackwatervillacoorg.com/sitemap.xml

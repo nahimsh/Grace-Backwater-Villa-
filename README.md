@@ -83,7 +83,7 @@ Search the codebase for these and replace with real values:
   (Share → Embed a map).
 - **Social & booking links**: Instagram, Facebook, Airbnb, and Booking.com
   URLs in the footer and JSON-LD `sameAs` array.
-- **Canonical domain**: `https://www.gracebackwatervilla.com/` — update in
+- **Canonical domain**: `https://www.gracebackwatervillacoorg.com/` — update in
   `<link rel="canonical">`, Open Graph tags, JSON-LD, `robots.txt`, and
   `sitemap.xml` once your final domain is live.
 - **Guest reviews**: sample reviews in the Reviews section — swap in real
